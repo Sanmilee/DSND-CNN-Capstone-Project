@@ -35,7 +35,7 @@ This project is the Udacity Data Scientist Nanodegree Capstone Project. It prese
 
 - The **haarcascades** folder should contain the OpenCV haarcascades face detector model which is implemented in the Step 1 of the dog_app.ipynb file.
 
-- The **images** folder should contain the training dataset images for training and testing the model's efficiency.
+- The **images** folder should contain the dataset images. It should be divided into subfolders titled **train**, **valid** and **test** respectively
 
 - The **saved_models** folder should contain the files for the pretrained ResNet50, VGG16 and Xception models used in the Step 2, 4 and 5 sessions of the dog_app.ipynb file respectively.
 

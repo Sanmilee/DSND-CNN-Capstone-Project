@@ -53,7 +53,7 @@ open cmd
 cd to your file directory
 open dog_app.ipynb
 ```
-![images1](images/Capture1.PNG)
+![images1](images/Brittany_02625.jpg)
 
 
 

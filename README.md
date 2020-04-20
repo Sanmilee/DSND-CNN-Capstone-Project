@@ -48,7 +48,10 @@ This project is the Udacity Data Scientist Nanodegree Capstone Project. It prese
 - To implementation of all the imported models and built models are in the **dog_app.ipynb** notebook which is implemented using the Keras open-source neural network library with a TensorFlow backend. 
 
 ```bat
-python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db
+open cmd
+>>> jupyter notebook
+cd to your file directory
+open dog_app.ipynb
 ```
 ![images1](images/Capture1.PNG)
 

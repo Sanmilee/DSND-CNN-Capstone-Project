@@ -1,6 +1,8 @@
 # DSND-CNN-Capstone-Project
 Udacity Dog Breed CNN Classifier
 
+![images1](images/med1.jpg)
+
 
 ## Table of Contents
 1. [Project Motivation and Overview](###project-motivation-and-overview)
@@ -56,9 +58,12 @@ open dog_app.ipynb
 ![images1](images/Brittany_02625.jpg)
 
 
-
 ### 5. Results
 The main findings of the code can be found at the post available [here.](https://medium.com/@oluwasanmiariyo/dog-breed-prediction-using-convolutional-neural-network-45d9cd4e4205)
+
+![images1](images/9.png)
+
+![images1](images/10.png)
 
 
 ### 6. Licensing and Acknowledgements

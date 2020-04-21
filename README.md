@@ -65,6 +65,8 @@ The main findings of the code can be found at the post available [here.](https:/
 
 ![images1](images/10.png)
 
+![images1](images/test.PNG)
+
 
 ### 6. Licensing and Acknowledgements
 Credit to Udacity Data Science Nanodegree for the knoweldge and for the data. Feel free to use the code here as you would like following the instruction in the LICENSE.txt

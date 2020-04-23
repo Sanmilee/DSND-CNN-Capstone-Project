@@ -65,6 +65,8 @@ The main findings of the code can be found at the post available [here.](https:/
 
 ![images1](images/10.png)
 
+![images1](images/dog1.PNG)
+
 ![images1](images/test.PNG)
 
 
